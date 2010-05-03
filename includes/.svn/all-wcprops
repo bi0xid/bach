@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/!svn/ver/49/trunk/includes
+END
+misc.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1/trunk/includes/misc.php
+END
+constants.php
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/trunk/includes/constants.php
+END
+wp-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/49/trunk/includes/wp-functions.php
+END
+crud.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/28/trunk/includes/crud.php
+END
+class.bp-options.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1/trunk/includes/class.bp-options.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1/trunk/includes/plugin.php
+END
+schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/12/trunk/includes/schema.php
+END
+support-functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/42/trunk/includes/support-functions.php
+END
+wp-user.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/42/trunk/includes/wp-user.php
+END
+form.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1/trunk/includes/form.php
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1/trunk/includes/db.php
+END
+untitled.html
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1/trunk/includes/untitled.html
+END
+mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/14/trunk/includes/mime.php
+END
+upgrade.php
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/13/trunk/includes/upgrade.php
+END

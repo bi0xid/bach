@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 129
+backpress http://svn.automattic.com/backpress/trunk/includes
+backpress-schemas http://svn.automattic.com/backpress/trunk/schemas
+
+END
