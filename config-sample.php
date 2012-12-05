@@ -6,7 +6,6 @@ define('DB_USER', 'usernamehere');     // Your MySQL username
 define('DB_PASSWORD', 'yourpasswordhere'); // ...and password
 define('DB_HOST', 'localhost');    // 99% chance you won't need to change this value
 
-// testing sample
 // IMAP settings - uncomment and set if you plan to use bin/spress-imap-pull.php
 // sample settings are valid for Gmail, just fill in IMAP_USER and IMAP_PASSWORD
 #define('IMAP_HOST', 'imap.gmail.com');
